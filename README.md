@@ -1,4 +1,4 @@
-# cartclient
+# PizzaClient in Nuxt.JS
 
 > My posh Nuxt.js project
 
